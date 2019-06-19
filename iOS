@@ -1,0 +1,11 @@
+{
+    "updateUrl":"https://download.weilaiyule.top/donglong/install.html",
+    "domainUrl":"http://tengyao2.pycsq.cn",
+    "versions":
+    [
+        {
+            "version":1000,
+            "status":"release"
+        }
+    ]
+}
