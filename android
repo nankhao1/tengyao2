@@ -1,0 +1,11 @@
+{
+    "updateUrl":"http://donglong.yzfwj.cn/donglong.apk",
+    "domainUrl":"http://tengyao2.pycsq.cn",
+    "versions":
+    [
+        {
+            "version":1000,
+            "status":"release"
+        }
+    ]
+}
