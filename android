@@ -14,10 +14,6 @@
         {
             "version":1002,
             "status":"release"
-        },
-        {
-            "version":1005,
-            "status":"release"
         }
     ]
 }
